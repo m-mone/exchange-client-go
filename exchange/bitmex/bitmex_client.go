@@ -1,0 +1,5 @@
+package bitmex
+
+func sign()  {
+	
+}
